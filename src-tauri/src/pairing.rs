@@ -52,6 +52,7 @@ const PAIRING_APPS: &[(&str, &str)] = &[
     ("StikStore", "pairingFile.plist"),
     ("ByeTunes", "pairing file/pairingFile.plist"),
     ("Reynard", "pairingFile.plist"),
+    ("PanicAnalyzer", "pairingFile.plist"),
 ];
 
 #[derive(Serialize)]
